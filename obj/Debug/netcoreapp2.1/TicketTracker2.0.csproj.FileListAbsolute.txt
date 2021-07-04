@@ -1,0 +1,11 @@
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/bin/Debug/netcoreapp2.1/TicketTracker2.0.deps.json
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/bin/Debug/netcoreapp2.1/TicketTracker2.0.runtimeconfig.json
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/bin/Debug/netcoreapp2.1/TicketTracker2.0.runtimeconfig.dev.json
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/bin/Debug/netcoreapp2.1/TicketTracker2.0.dll
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/bin/Debug/netcoreapp2.1/TicketTracker2.0.pdb
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/obj/Debug/netcoreapp2.1/TicketTracker2.0.csprojAssemblyReference.cache
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/obj/Debug/netcoreapp2.1/TicketTracker2.0.csproj.CoreCompileInputs.cache
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/obj/Debug/netcoreapp2.1/TicketTracker2.0.AssemblyInfoInputs.cache
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/obj/Debug/netcoreapp2.1/TicketTracker2.0.AssemblyInfo.cs
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/obj/Debug/netcoreapp2.1/TicketTracker2.0.dll
+/Users/landrade/Desktop/c#.net/MyPros/TicketTracker2.0/obj/Debug/netcoreapp2.1/TicketTracker2.0.pdb
